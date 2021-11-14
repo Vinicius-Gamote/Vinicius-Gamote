@@ -1,6 +1,7 @@
 ### Hello Devs 😎
 
-- 🔭 I’m currently working on System Developing (Full Stack)
+- 🤓 My name is Vinicius, currently 20 years old, and a technology fan!!!
+- 🔭 I’m currently working on System Developing (Intern Full Stack)
 - 🌱 I’m currently learning JS and .NET (Java at university)
 - 😄 Pronouns: He/His
 

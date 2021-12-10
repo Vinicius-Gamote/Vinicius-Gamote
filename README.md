@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on System Developing (Intern Full Stack)
 - 🌱 I’m currently learning Angular and ASP.NET Core (Java at university)
 - 💻 Want to improve my data analysis skills in a near future
-- 😄 Pronouns: He/His
+- Love games and some geek culture
 
 <div align="center">
   <a href="https://github.com/Vinicius-Gamote">

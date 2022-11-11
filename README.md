@@ -1,6 +1,6 @@
 ### Hello Devs 😎
 
-- 🤓 My name is Vinicius, currently 20 years old, and a technology fan!!!
+- 🤓 My name is Vinicius, currently 21 years old, and a technology fan!!!
 - 🔭 I’m currently working on System Developing (Intern Full Stack)
 - 🌱 I’m currently learning Angular and ASP.NET Core
 - 💻 Want to improve my data analysis skills in a near future

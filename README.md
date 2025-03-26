@@ -1,9 +1,9 @@
 ### Hello Devs 😎
 
 - 🤓 My name is Vinicius, currently 23 years old, and a technology fan!!!
-- 🔭 I’m currently working on System Developing (Intern Full Stack)
+- 🔭 I’m currently working on System Developing (Full Stack Developer Jr)
 - 🌱 I’m currently learning Kubernets and Docker
-- 💻 Want to improve my data analysis skills in a near future
+- 💻 Want to improve my DevOps skills
 - Love games and some geek culture
 
 <div align="center">

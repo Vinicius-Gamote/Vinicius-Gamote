@@ -2,7 +2,7 @@
 
 - 🤓 My name is Vinicius, currently 23 years old, and a technology fan!!!
 - .NET Core, WebApi restful, unit tests, angular, docker
-- 🔭 I’m currently working on System Developing (Full Stack Developer Jr)
+- 🔭 I’m currently working on System Developing (Full Stack Developer)
 - 🌱 I’m currently learning Kubernets and Docker
 - 💻 Want to improve my DevOps skills
 - Love games and some geek culture

@@ -1,11 +1,35 @@
-### Hello Devs 😎
+# Vinicius Gamote
 
-- 🤓 My name is Vinicius, currently 24 years old, and a technology fan!!!
-- .NET Core, WebApi restful, unit tests, angular, docker
-- 🔭 I’m currently working on System Developing (Full Stack Developer)
-- 🌱 I’m currently learning Kubernets and Docker
-- 💻 Want to improve my DevOps skills
-- Love games and some geek culture
+Desenvolvedor Full Stack com foco em .NET, C#, Angular e aplicações web corporativas.
+
+Tenho experiência com desenvolvimento de APIs REST, integrações, bancos relacionais, autenticação JWT, Entity Framework, Dapper, Docker, CI/CD e boas práticas de arquitetura.
+
+## Principais tecnologias
+
+- C#, .NET, ASP.NET Core, .NET Framework
+- Angular, TypeScript, HTML, CSS
+- SQL Server, PostgreSQL
+- Entity Framework, Dapper
+- Docker, Docker Compose
+- Azure DevOps, CI/CD
+- RabbitMQ
+- JWT, APIs REST
+- DDD, SOLID, testes automatizados
+
+## Projetos em destaque
+
+- ShortenerUrl: API para encurtamento de URLs com .NET e Docker
+- WebApi Backend: API REST em ASP.NET Core
+- WebApi Frontend: aplicação Angular consumindo API REST
+- Marvel API App: aplicação Angular integrada com API externa
+
+## Atualmente estudando
+
+- Kubernetes
+- Cloud
+- Observabilidade
+- Arquitetura distribuída
+- IA aplicada a sistemas corporativos
 
 <div align="center">
   <a href="https://github.com/Vinicius-Gamote">

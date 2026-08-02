@@ -17,7 +17,7 @@ Tenho experiência com desenvolvimento de APIs REST, integrações, bancos relac
 - DDD, SOLID, testes automatizados
 
 ## Projetos em destaque
-
+- BillsCalculator: Calculadora de gastos com gráficos, e notificações via email
 - ShortenerUrl: API para encurtamento de URLs com .NET e Docker
 - WebApi Backend: API REST em ASP.NET Core
 - WebApi Frontend: aplicação Angular consumindo API REST

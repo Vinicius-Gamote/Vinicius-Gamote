@@ -16,7 +16,7 @@
 
 ## About me
 
-I am a full-stack developer focused on the Microsoft and Angular ecosystems. My experience includes building REST APIs, integrating external services, modeling relational data, implementing authentication and authorization, and delivering containerized applications through automated pipelines.
+I am a full-stack engineer focused on the Microsoft and Angular ecosystems. My experience includes building REST APIs, integrating external services, modeling relational data, implementing authentication and authorization, and delivering containerized applications through automated pipelines.
 
 I enjoy turning business requirements into clear technical designs and evolving them into tested, observable, and maintainable software. I apply Domain-Driven Design, SOLID principles, automated testing, and pragmatic engineering practices according to each project's needs.
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinicius Gamote 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · .NET · C# · Angular</strong>
+  <strong>Full-Stack Engineer · .NET · C# · Angular</strong>
 </p>
 
 <p align="center">
